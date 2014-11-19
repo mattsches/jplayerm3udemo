@@ -7,7 +7,7 @@ This is just a simple example of how to load an [Extended M3U](https://en.wikipe
 Clone this repository and ensure you have [Node.js](http://nodejs.org/) and [Bower](http://nodejs.org/) installed.
 
 ```
-$ npm install --save-dev gulp gulp-bundle
+$ npm install --save-dev gulp gulp-bundle-assets
 $ bower install
 $ ./node_modules/.bin/gulp bundle
 ```
