@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "jquery": "1.11.1",
-    "jplayer": "~2.8.1",
+    "jplayer": "~2.8.4",
     "javascript-playlist-parser": "git://github.com/nickdesaulniers/javascript-playlist-parser.git"
   }
 }

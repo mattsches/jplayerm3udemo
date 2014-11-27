@@ -1,7 +1,7 @@
 jQuery(document).ready(function () {
 
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "/jplayer/static/audio/test.m3u");
+    xhr.open("GET", "static/audio/test.m3u");
     xhr.overrideMimeType("audio/x-mpegurl");
     xhr.onload = parse;
     xhr.send();

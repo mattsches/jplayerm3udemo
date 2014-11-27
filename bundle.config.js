@@ -16,8 +16,8 @@ module.exports = {
             scripts: [
                 './bower_components/jquery/dist/jquery.min.js',
                 './bower_components/javascript-playlist-parser/lib/parser.min.js',
-                './bower_components/jplayer/js/jplayer/jquery.jplayer.min.js',
-                './bower_components/jplayer/js/add-on/jplayer.playlist.min.js'
+                './bower_components/jplayer/dist/jplayer/jquery.jplayer.js',
+                './bower_components/jplayer/dist/add-on/jplayer.playlist.min.js'
             ],
             styles: './bower_components/jplayer/skin/pink.flag/jplayer.pink.flag.css',
             options: {
